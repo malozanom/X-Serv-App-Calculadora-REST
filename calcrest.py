@@ -5,7 +5,7 @@ Miguel Ángel Lozano Montero.
 Program implementing a simple calculator in REST version.
 Version with only one resource ("/calc"). It is updated with PUT, which sends
 the operation in the body (ex: 4,5,+). It is checked with GET, which returns
-the result (ex: 4+5=7).
+the result (ex: 4+5=9).
 """
 
 import webapp
